@@ -24,3 +24,6 @@ sudo bash -c "curl -fsSL https://raw.github.com/euriion/sysinfo/master/sysinfo |
 or
 
 Download the script [https://raw.github.com/euriion/sysinfo/master/sysinfo](https://raw.github.com/euriion/sysinfo/master/sysinfo) and run
+
+## Refrences
+* original source code from [https://github.com/smilejay/shell/blob/master/sh2012/hwconfig](https://github.com/smilejay/shell/blob/master/sh2012/hwconfig)
